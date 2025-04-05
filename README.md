@@ -2,6 +2,7 @@
 
 A real-time health monitoring system that simulates and visualizes blood data to predict the risk of blood clots using machine learning, to simulate the hardware working for the same. The system includes a data generator, a Flask backend, and a live Chart.js dashboard on the frontend.
 ![image](https://github.com/user-attachments/assets/aee8d974-02b3-4dce-b8b0-b151c0c92dfc)
+![Cool Borwo](https://github.com/user-attachments/assets/46178507-e067-4572-b499-29a870960522)
 
 
 ---
