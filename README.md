@@ -27,5 +27,4 @@ A real-time health monitoring system that simulates and visualizes blood data to
 
 ---
 
-## 📦 Folder Structure
 
